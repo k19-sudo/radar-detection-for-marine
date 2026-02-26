@@ -4,7 +4,7 @@ Bu proje, radar görüntülerinden "Standby" durumunun açık veya kapalı oldu�
 
 ## Özellikler
 
-* YOLOv8 kullanarak görüntüdeki ilgili alanları tespit etme ve maskeleme.
+* YOLOv26 kullanarak görüntüdeki ilgili alanları tespit etme ve maskeleme.
 * EasyOCR ile maskelenmiş alanlardaki metinleri okuma.
 * "STANDBY OFF" veya "TX OFF" gibi metinleri algılayarak durum raporlama.
 * Tespit sonuçlarına göre görüntüleri otomatik olarak ilgili klasörlere (true/false) arşivleme.
